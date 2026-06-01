@@ -53,19 +53,38 @@ No permite interacción ni personalización.
 Puede resultar demasiado pesimista al centrarse únicamente en el tiempo restante.
 Describa lo positivo a rescatar y, si fuese posible, lo negativo a evitar.
 
-## Antecedente 2: Nombre con link
+## Antecedente 2:Emotion Data Visualization - Joy Wu 
+https://www.behance.net/gallery/9778333/Emotion-Data-Visualization/modules/72046883?utm_source=chatgpt.com
+### Positivo a rescatar
+- Convierte experiencias humanas subjetivas en datos visuales.
+- Demuestra que los datos pueden transmitir emociones además de información.
+- Uso muy atractivo de composición, color y ritmo visual.
+- Se aleja de los gráficos tradicionales para generar una experiencia más reflexiva.
 
-Pantallazo.
+### Negativo a evitar
+- Algunas visualizaciones requieren explicación adicional para ser comprendidas.
+- La estética puede imponerse sobre la claridad de los datos.
+- El nivel de abstracción puede dificultar comparaciones rápidas.
 
-Describa lo positivo a rescatar y, si fuese posible, lo negativo a evitar.
+ <img width="1009" height="720" alt="Screenshot 2026-05-31 at 21 32 59" src="https://github.com/user-attachments/assets/861e071c-3c8a-466b-ba9b-9af73be1a6c1" />
 
-Antecedente 3: Nombre con link
+## Antecedente 3: La paradoja del cumpleaños
+https://pudding.cool/2018/04/birthday-paradox/?utm_source=chatgpt.com
+## Positivo a rescatar
+- Utiliza la interacción para enseñar un concepto complejo de forma intuitiva.
+- Involucra al usuario directamente en el descubrimiento de la información.
+- Combina texto, visualización y animación de manera fluida.
+- Presenta los datos como una historia, manteniendo el interés durante toda la experiencia.
+- Hace que un dato estadístico se sienta personal y relevante para el usuario.
+## Negativo a evitar
+- Algunas explicaciones requieren bastante scroll para llegar a las conclusiones.
+- El componente narrativo puede dificultar la exploración libre de los datos.
+- La cantidad de información puede resultar extensa para usuarios que buscan respuestas rápidas.
 
-Pantallazo.
+<img width="1009" height="720" alt="Screenshot 2026-05-31 at 21 38 16" src="https://github.com/user-attachments/assets/5e04832c-9bcc-46c7-bbb7-7781552f432f" />
 
-Describa lo positivo a rescatar y, si fuese posible, lo negativo a evitar.
 
-Moodboard de Referentes
+## Moodboard de Referentes
 
-Pegué aquí una imagen que recopile aquello que puede inspirar, desde algún lugar improbable, novedad en su propuesta.
+<img width="1920" height="1080" alt="Diseño sin título-2" src="https://github.com/user-attachments/assets/6ad05e9e-629e-419e-af1c-c99c211435f4" />
 
