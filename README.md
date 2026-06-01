@@ -25,6 +25,11 @@ Un extremo
 | Puntos de dolor (Pain points)|No percibe el valor de los encuentros frecuentes porque forman parte de su rutina.|
 
 
-
+| Categoría | Usuario Extremo A | Usuario Extremo B |
+|-----------|------------------|------------------|
+| Nombre y Rol | Sofía, estudiante universitaria | Manuel, jubilado |
+| Demográficos | 21 años, vive con sus padres y estudia tiempo completo | 72 años, vive solo y está retirado |
+| Objetivos y Motivaciones | Comprender cuánto tiempo dedica a sus seres queridos | Valorar el tiempo que aún puede compartir con familiares y amigos |
+| Puntos de dolor | Cree que siempre habrá tiempo para ver a las personas que quiere | Percibe que los encuentros son cada vez menos frecuentes |
 
 
