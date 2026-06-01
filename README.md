@@ -28,22 +28,32 @@ Otro extremo
 ## Segundo, con qué:
 
 Indique las bases de datos que utilizará.
-- Fuente principal para estimar el tiempo potencial restante de vida de una persona según su edad, género y país de residencia: https://www.oecd.org/en/data/datasets/time-use-database.html
-- Permite comprender cómo las personas distribuyen su tiempo entre trabajo, familia, ocio, transporte y otras actividades: https://datos.bancomundial.org/indicador/SP.DYN.LE00.IN
+- Fuente principal para estimar el tiempo que puede tener una persona según su edad, género y país de residencia: https://www.oecd.org/en/data/datasets/time-use-database.html
+- Permite ver cómo las personas distribuyen su tiempo entre trabajo, familia, ocio, transporte y otras actividades: https://datos.bancomundial.org/indicador/SP.DYN.LE00.IN
 
 ## Tercero, qué:
 
 Describa lo que ofrecerá, acaso una infografía o un dashboard.
-
+Un dashboard interactivo y visual que permita ver la cantidad aproximada de encuentros futuros con seres queridos a partir de datos demográficos.
+La plataforma permitirá explorar distintos escenarios modificando variables como la edad de una persona, la frecuencia de los encuentros y el país de residencia, transformando una noción abstracta del tiempo en una representación tangible y reflexiva.
 Agregue a continuación 3 antecedentes y un mooadboard de referentes.
 
-Antecedente 1: Nombre con link
+## Antecedente 1: Tu vida en visualización 
+https://waitbutwhy.com/2015/12/the-tail-end.html?utm_source=chatgpt.com 
+### Positivo a rescatar
+- Visualización extremadamente simple y emocional.
+- Utiliza pequeños bloques para representar semanas de vida.
+- Convierte conceptos abstractos en algo concreto y comprensible.
+- Genera reflexión sin necesidad de grandes cantidades de texto.
+<img width="584" height="536" alt="Screenshot 2026-05-31 at 21 21 53" src="https://github.com/user-attachments/assets/2f3031bb-afa1-4ee9-a5c2-ecfa7f76a734" />
 
-Pantallazo.
-
+### Negativo a evitar
+La experiencia es principalmente estática.
+No permite interacción ni personalización.
+Puede resultar demasiado pesimista al centrarse únicamente en el tiempo restante.
 Describa lo positivo a rescatar y, si fuese posible, lo negativo a evitar.
 
-Antecedente 2: Nombre con link
+## Antecedente 2: Nombre con link
 
 Pantallazo.
 
