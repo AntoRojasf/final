@@ -1,6 +1,7 @@
 # final
+##¿Cómo podemos visualizar el tiempo restante de interacción con nuestros seres queridos para generar mayor conciencia sobre el valor de los encuentros cotidianos?
 | Pregunta | Respuesta |
-|--------|--------|-------------|
+|--------|--------|
 | Nombre y Rol| Martín Garcia, Diseñador UX Junior, Trabaja en una empresa tecnológica y está comenzando su vida profesional mientras intenta equilibrar trabajo, amigos, familia y desarrollo personal. |
 | Demográficos | 25 años. Vive en Santiago, Chile. Ingreso mensual aproximado de $1.200.000 CLP. Trabaja jornada completa y utiliza herramientas digitales para organizar su tiempo y tomar decisiones personales y profesionales. |
 | Objetivos y Motivaciones | Quiere comprender cómo distribuye su tiempo y cómo sus decisiones actuales afectan las relaciones más importantes de su vida. Busca visualizar de manera concreta cuánto tiempo comparte con familiares, amigos y seres queridos, para tomar decisiones más conscientes sobre sus prioridades. Le interesa transformar conceptos abstractos, como el paso del tiempo o la frecuencia de los encuentros, en información fácil de entender y reflexionar. |
@@ -8,7 +9,7 @@
 
 Un extremo 
 | Pregunta | Respuesta |
-|--------|--------|-------------|
+|--------|--------|
 | Nombre y Rol|Ricardo, ejecutivo senior y padre de familia |
 | Demográficos | 58 años, trabaja jornada completa, hijos adultos, poco tiempo libre. |
 | Objetivos y Motivaciones | Quiere entender cómo han cambiado sus relaciones a lo largo de los años y cuánto tiempo comparte actualmente con familiares y amigos. Busca fortalecer vínculos que se han debilitado con el tiempo. |
@@ -16,20 +17,13 @@ Un extremo
 
 Otro extremo
 
-Un extremo 
 | Pregunta | Respuesta |
-|--------|--------|-------------|
+|--------|--------|
 | Nombre y Rol|Valentina, estudiante que ve a su familia todos los días|
 | Demográficos | 20 años, vive con sus padres y hermanos |
 | Objetivos y Motivaciones | Quiere valorar las relaciones cotidianas que da por sentadas. |
 | Puntos de dolor (Pain points)|No percibe el valor de los encuentros frecuentes porque forman parte de su rutina.|
 
 
-| Categoría | Usuario Extremo A | Usuario Extremo B |
-|-----------|------------------|------------------|
-| Nombre y Rol | Sofía, estudiante universitaria | Manuel, jubilado |
-| Demográficos | 21 años, vive con sus padres y estudia tiempo completo | 72 años, vive solo y está retirado |
-| Objetivos y Motivaciones | Comprender cuánto tiempo dedica a sus seres queridos | Valorar el tiempo que aún puede compartir con familiares y amigos |
-| Puntos de dolor | Cree que siempre habrá tiempo para ver a las personas que quiere | Percibe que los encuentros son cada vez menos frecuentes |
 
 
