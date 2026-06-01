@@ -1,5 +1,5 @@
-# final
-##¿Cómo podemos visualizar el tiempo restante de interacción con nuestros seres queridos para generar mayor conciencia sobre el valor de los encuentros cotidianos?
+# Entrega Final
+# ¿Cómo podemos visualizar el tiempo restante de interacción con nuestros seres queridos para generar mayor conciencia sobre el valor de los encuentros cotidianos?
 | Pregunta | Respuesta |
 |--------|--------|
 | Nombre y Rol| Martín Garcia, Diseñador UX Junior, Trabaja en una empresa tecnológica y está comenzando su vida profesional mientras intenta equilibrar trabajo, amigos, familia y desarrollo personal. |
@@ -25,5 +25,37 @@ Otro extremo
 | Puntos de dolor (Pain points)|No percibe el valor de los encuentros frecuentes porque forman parte de su rutina.|
 
 
+## Segundo, con qué:
 
+Indique las bases de datos que utilizará.
+- Fuente principal para estimar el tiempo potencial restante de vida de una persona según su edad, género y país de residencia: https://www.oecd.org/en/data/datasets/time-use-database.html
+- Permite comprender cómo las personas distribuyen su tiempo entre trabajo, familia, ocio, transporte y otras actividades: https://datos.bancomundial.org/indicador/SP.DYN.LE00.IN
+
+## Tercero, qué:
+
+Describa lo que ofrecerá, acaso una infografía o un dashboard.
+
+Agregue a continuación 3 antecedentes y un mooadboard de referentes.
+
+Antecedente 1: Nombre con link
+
+Pantallazo.
+
+Describa lo positivo a rescatar y, si fuese posible, lo negativo a evitar.
+
+Antecedente 2: Nombre con link
+
+Pantallazo.
+
+Describa lo positivo a rescatar y, si fuese posible, lo negativo a evitar.
+
+Antecedente 3: Nombre con link
+
+Pantallazo.
+
+Describa lo positivo a rescatar y, si fuese posible, lo negativo a evitar.
+
+Moodboard de Referentes
+
+Pegué aquí una imagen que recopile aquello que puede inspirar, desde algún lugar improbable, novedad en su propuesta.
 
